@@ -1,6 +1,6 @@
 # Flight Ticket Reservation System
 
-Welcome to Flight Ticket Reservation System, a command-line-based application that lets you book your flights with ease and convenience. Whether you are planning a business trip or a vacation, this application will help you find the best flight options and secure your tickets in a few simple steps.
+Welcome to Flight Ticket Reservation System, a command-line-based application that lets you book your flights with ease and convenience. Let's Assume you are planning a business trip or a vacation, this application will help you find the best flight options and secure your tickets in a few simple steps in an easier interface developed in complete C Programming
 
 This is a command-line-based airline ticket booking application implemented in C. It allows users to create accounts, search for flights between destinations, book tickets in different classes, cancel bookings, and check upcoming bookings.
 
